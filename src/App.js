@@ -1,4 +1,3 @@
-import ReactDom from "react-dom/client";
 import SearchAnimePage from "./pages/SearchAnimePage";
 import PredictionPage from "./pages/PredictionPage";
 import LoginPage from "./pages/LoginPage";
